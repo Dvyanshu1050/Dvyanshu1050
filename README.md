@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm Divyanshu 👋
+I'm a self-taught passionate **Full Stack MERN Developer** from India 🇮🇳
 
-<!--
-**Dvyanshu1050/Dvyanshu1050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Full Stack Developer | MERN + TypeScript Enthusiast**  
+🚀 Building responsive web apps with **React, Node.js, MongoDB & Express**  
+💡 Passionate about **clean code, DSA, recursion**, and real-world projects  
+🎨 Creating **modern UI/UX & fun frontend experiments**  
+
+---
+
+## Tech Stack
+
+**Frontend:** React.js ⚛️ | HTML5 🌐 | CSS3 🎨 | TailwindCSS ✨ | GSAP 🎢  
+**Backend:** Node.js 🟢 | Express.js 🚀 | MongoDB 🗄 | SQL 🛠  
+**Languages & Tools:** JavaScript 🟨 | TypeScript 💜 | Git & GitHub 🐙 | VS Code 💻  
+**Others:** GraphQL ⚡ | REST APIs 🌐 | Figma 🎨  
+
+---
+
+## 🔗 Connect with me
+
+- GitHub: [github.com/DivyanshuMaurya](https://github.com/DivyanshuMaurya)  
+- LinkedIn: https://www.linkedin.com/in/divyanshu-kumar-maurya-9316802a7/  
+- Portfolio / Projects: https://dvyanshu1050.github.io/MyUpdateResume/ 
+
+---
+
+## 🌟 Fun Fact
+
+💻 Code | ☕ Coffee | 🎵 Music — my daily productivity formula..
